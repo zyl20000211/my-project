@@ -1,3 +1,7 @@
 Hello Bravo World
 print "Hello"
+<<<<<<< Updated upstream
 123456
+=======
+888888
+>>>>>>> Stashed changes
